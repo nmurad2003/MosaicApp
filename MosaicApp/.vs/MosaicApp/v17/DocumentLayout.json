@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I novbe\\Desktop\\Murad\\MosaicApp\\MosaicApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|c:\\users\\i novbe\\desktop\\murad\\mosaicapp\\mosaicapp\\mosaicapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|solutionrelative:mosaicapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|c:\\users\\i novbe\\desktop\\murad\\mosaicapp\\mosaicapp\\mosaicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|solutionrelative:mosaicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|c:\\users\\i novbe\\desktop\\murad\\mosaicapp\\mosaicapp\\mosaicapp\\contexts\\mosaicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|solutionrelative:mosaicapp\\contexts\\mosaicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|c:\\users\\i novbe\\desktop\\murad\\mosaicapp\\mosaicapp\\mosaicapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|solutionrelative:mosaicapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MosaicApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\I novbe\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MosaicApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:55:15.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MosaicDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Contexts\\MosaicDbContext.cs",
+              "RelativeDocumentMoniker": "MosaicApp\\Contexts\\MosaicDbContext.cs",
+              "ToolTip": "C:\\Users\\I novbe\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Contexts\\MosaicDbContext.cs",
+              "RelativeToolTip": "MosaicApp\\Contexts\\MosaicDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:53:40.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Program.cs",
+              "RelativeDocumentMoniker": "MosaicApp\\Program.cs",
+              "ToolTip": "C:\\Users\\I novbe\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Program.cs",
+              "RelativeToolTip": "MosaicApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:53:12.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "MosaicApp\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\I novbe\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Models\\AppUser.cs",
+              "RelativeToolTip": "MosaicApp\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:50:27.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+﻿@using MosaicApp.ViewModels.ArchitectorVMs
+@using MosaicApp.ViewModels.PositionVMs
+@model ArchitectorCreateVM
+
+<div class="container-fluid">
+    <form method="post" enctype="multipart/form-data">
+
+        <div class="form-group">
+            <label asp-for="FirstName">First Name</label>
+            <input asp-for="FirstName" type="text" class="form-control" id="formGroupExampleInput" placeholder="Type here...">
+            <span asp-validation-for="FirstName" class="text-danger sm"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="LastName">Last Name</label>
+            <input asp-for="LastName" type="text" class="form-control" id="formGroupExampleInput" placeholder="Type here...">
+            <span asp-validation-for="LastName" class="text-danger sm"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Description">Description</label>
+            <input asp-for="Description" type="text" class="form-control" id="formGroupExampleInput" placeholder="Type here...">
+            <span asp-validation-for="Description" class="text-danger sm"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="PositionId">Position</label>
+            <select asp-for="PositionId">
+                @foreach (PositionGetVM item in ViewBag.Positions) 
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+
+            </select>
+            <span asp-validation-for="PositionId" class="text-danger sm"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Image">Image</label>
+            <input asp-for="Image" type="file" class="form-control" id="formGroupExampleInput" placeholder="Type here...">
+            <span asp-validation-for="Image" class="text-danger sm"></span>
+        </div>
+
+        <button type="submit">Create</button>
+    </form>
+</div>
