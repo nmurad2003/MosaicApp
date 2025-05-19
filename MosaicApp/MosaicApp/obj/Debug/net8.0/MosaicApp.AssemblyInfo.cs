@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MosaicApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc897020648761a2f705b62fbeaaee470bd22155")]
 [assembly: System.Reflection.AssemblyProductAttribute("MosaicApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MosaicApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

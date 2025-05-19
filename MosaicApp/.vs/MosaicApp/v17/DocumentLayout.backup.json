@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\I novbe\\Desktop\\Murad\\MosaicApp\\MosaicApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Classtime\\Desktop\\Murad\\MosaicApp\\MosaicApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|c:\\users\\i novbe\\desktop\\murad\\mosaicapp\\mosaicapp\\mosaicapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|c:\\users\\classtime\\desktop\\murad\\mosaicapp\\mosaicapp\\mosaicapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|solutionrelative:mosaicapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|c:\\users\\classtime\\desktop\\murad\\mosaicapp\\mosaicapp\\mosaicapp\\viewmodels\\accountvms\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|solutionrelative:mosaicapp\\viewmodels\\accountvms\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|c:\\users\\classtime\\desktop\\murad\\mosaicapp\\mosaicapp\\mosaicapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|solutionrelative:mosaicapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|c:\\users\\classtime\\desktop\\murad\\mosaicapp\\mosaicapp\\mosaicapp\\viewmodels\\accountvms\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|solutionrelative:mosaicapp\\viewmodels\\accountvms\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|c:\\users\\classtime\\desktop\\murad\\mosaicapp\\mosaicapp\\mosaicapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|solutionrelative:mosaicapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|c:\\users\\i novbe\\desktop\\murad\\mosaicapp\\mosaicapp\\mosaicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|c:\\users\\classtime\\desktop\\murad\\mosaicapp\\mosaicapp\\mosaicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|solutionrelative:mosaicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|c:\\users\\i novbe\\desktop\\murad\\mosaicapp\\mosaicapp\\mosaicapp\\contexts\\mosaicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|solutionrelative:mosaicapp\\contexts\\mosaicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|c:\\users\\i novbe\\desktop\\murad\\mosaicapp\\mosaicapp\\mosaicapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B67ACE0-6486-4276-BBF2-0838DCBAF06B}|MosaicApp\\MosaicApp.csproj|solutionrelative:mosaicapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 253,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "MosaicApp\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "MosaicApp\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T08:55:15.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MosaicDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Contexts\\MosaicDbContext.cs",
-              "RelativeDocumentMoniker": "MosaicApp\\Contexts\\MosaicDbContext.cs",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Contexts\\MosaicDbContext.cs",
-              "RelativeToolTip": "MosaicApp\\Contexts\\MosaicDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T08:53:40.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Program.cs",
               "RelativeDocumentMoniker": "MosaicApp\\Program.cs",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Program.cs",
               "RelativeToolTip": "MosaicApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T08:53:12.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "MosaicApp\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Models\\AppUser.cs",
-              "RelativeToolTip": "MosaicApp\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MosaicApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MosaicApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswDAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T08:50:27.339Z",
+              "WhenOpened": "2025-05-19T13:03:28.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\ViewModels\\AccountVMs\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "MosaicApp\\ViewModels\\AccountVMs\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\ViewModels\\AccountVMs\\RegisterVM.cs",
+              "RelativeToolTip": "MosaicApp\\ViewModels\\AccountVMs\\RegisterVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:06:50.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MosaicApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MosaicApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T14:22:16.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\ViewModels\\AccountVMs\\LoginVM.cs",
+              "RelativeDocumentMoniker": "MosaicApp\\ViewModels\\AccountVMs\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\ViewModels\\AccountVMs\\LoginVM.cs",
+              "RelativeToolTip": "MosaicApp\\ViewModels\\AccountVMs\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:18:27.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MosaicApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Murad\\MosaicApp\\MosaicApp\\MosaicApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MosaicApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T14:22:37.19Z",
               "EditorCaption": ""
             }
           ]
